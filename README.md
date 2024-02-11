@@ -6,6 +6,8 @@ This repository was for project 'Getting to Know You' in sprint 2.
 The content in this repository was my own work but I did use W3Schools HTML Tutorial for the HTML template code and W3Schools for html coding lessons.
 # Liscense
 This repository endorses a MIT Lisence. Please check the liscene file of this repository for more information.
+# How to create
+To recreate this respository, establish a new repositiory domain and upload the linked files below.
 # Required files
 Press the link to download required files
 [me-main.zip](https://github.com/darkoili/me/files/14233942/me-main.zip)
